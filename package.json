@@ -1,0 +1,12 @@
+{
+  "name": "my-mocha-chai-project",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "chai": "^4.0.0"
+  }
+}
